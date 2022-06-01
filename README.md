@@ -1,2 +1,2 @@
 # Serenity #
-## www.yxzzwy.github.io ##
+## http://yxzzwy.github.io ##
