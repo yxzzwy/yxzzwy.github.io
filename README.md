@@ -1,2 +1,2 @@
 # Serenity #
-## http://yxzzwy.github.io ##
+## 不以物喜，不以物悲 ##
