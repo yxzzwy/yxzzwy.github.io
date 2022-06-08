@@ -14,4 +14,5 @@
 
 ### 项目开源地址（本博客）
 
-[gayhub开源地址](https://github.com/yxzzwy/yxzzwy.github.io)
+*[gayhub开源地址](https://github.com/yxzzwy/yxzzwy.github.io)
+*[gayhub个人主页](https://github.com/yxzzwy)
