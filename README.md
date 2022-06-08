@@ -5,8 +5,8 @@
 ## 博客内容（直达）:
 
 * 📫[主页](/index/index.html)
-
 * 📫[2022高考试题（实时更新6.8）](/gk/gk.html)
+* [零长度短网址转换（可用于加密其他文本）](/sx/zero-width-detection.html)
 
 ## 联系我：
 
