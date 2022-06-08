@@ -1,0 +1,128 @@
+<!DOCTYPE html><!--STATUS OK-->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<style type="text/css">
+		body{
+			background:#fff;
+		}
+		ul.polaroids li{
+			display: inline;
+		}
+		ul.polaroids a{
+			background: #fff;
+			display: inline;
+			float: left;
+			margin: 0 0 27px 30px;
+			width: auto;
+			padding: 10px 10px 15px;
+			text-align: center;
+			font-family: "Marker Felt", sans-serif;
+			text-decoration: none;
+			color: #333;
+			font-size: 18px;
+ 
+			/*设置阴影  参数1 x轴阴影 x>0在右边 <0在左边 =0两边都有
+						参数2 y轴阴影 y>0在下面边 <0在上边 =0两边都有
+						参数3 阴影模糊半径
+						参数4 颜色   */
+			-webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25);
+			-moz-box-shadow: 0 3px 6px rgba(0,0,0,.25); 
+			box-shadow: 0 3px 6px rgba(0,0,0,.25);
+			
+ 
+			-webkit-transitioin:-webkit-transform .15s linear;
+ 
+			-webkit-transform: rotate(-2deg);
+			-moz-transform: rotate(-2deg);
+		}
+ 
+		ul.polaroids img{
+			display: block;
+			height: 100px;
+			margin: 0 0 12px 0;
+			border: none;
+		}
+		/*伪类选择器  在元素之后添加内容*/
+		ul.polaroids a:after{
+			content: attr(title);
+		}
+		ul.polaroids li:nth-child(even) a{
+			-webkit-transform: rotate(5deg);
+			-moz-transform: rotate(5deg);
+			transform: rotate(5deg);
+		}
+		ul.polaroids li:nth-child(3n) a{
+			position: relative;
+			top:-5px;
+			-webkit-transform: none;
+			-moz-transform: none;
+			transform: none;
+		}
+		ul.polaroids li:nth-child(5n) a{
+			position: relative;
+			right:5px;
+			-webkit-transform: rotate(-10deg);
+			-moz-transform: rotate(-10deg);
+			transform: rotate(-10deg);
+		}
+		ul.polaroids li:nth-child(8n) a{
+			position: relative;
+			right:5px;
+			top:8px;
+		}
+		ul.polaroids li:nth-child(11n) a{
+			position: relative;
+			right:-5px;
+			top:3px;
+		}
+		ul.polaroids li a:hover{
+			/*放大*/
+			-webkit-transform: scale(1.25);
+			-moz-transform: scale(1.25);
+			transform: scale(1.25);
+			
+			-webkit-box-shadow: 0 3px 6px rgba(0,0,0,.5);
+			-moz-box-shadow: 0 3px 6px rgba(0,0,0,.5);
+			box-shadow: 0 3px 6px rgba(0,0,0,.5);
+ 
+			position: relative;
+			z-index: 5;
+		}
+	</style>
+</head>
+<body>
+	<ul class="polaroids">
+		<li><a title="风景1" href="https://s1.328888.xyz/2022/06/08/zbJCt.jpg"> <img 
+
+src="https://s1.328888.xyz/2022/06/08/zbJCt.jpg" alt="风景1" /> </a></li>
+		<li><a title="风景2" href="https://s1.328888.xyz/2022/06/08/zbLbe.jpg"> <img 
+
+src="https://s1.328888.xyz/2022/06/08/zbLbe.jpg" alt="风景2" /> </a></li>
+		<li><a title="风景3" href="https://s1.328888.xyz/2022/06/08/zbfuO.jpg"> <img 
+
+src="https://s1.328888.xyz/2022/06/08/zbfuO.jpg" alt="风景3" /> </a></li>
+		<li><a title="风景4" href="https://s1.328888.xyz/2022/06/08/zbidq.jpg"> <img 
+
+src="images/bg.jpg" alt="风景4" /> </a></li>
+		<li><a title="风景5" href="5"> <img src="images/bg.jpg" alt="风景5" /> 
+
+</a></li>
+		<li><a title="风景6" href="6"> <img src="images/bg.jpg" alt="风景6" /> 
+
+</a></li>
+		<li><a title="风景7" href="7"> <img src="images/bg.jpg" alt="风景7" /> 
+
+</a></li>
+		<li><a title="风景8" href="8"> <img src="images/bg.jpg" alt="风景8" /> 
+
+</a></li>
+		<li><a title="风景9" href="9"> <img src="images/bg.jpg" alt="风景9" /> 
+
+</a></li>
+		<li><a title="风景10" href="10"> <img src="images/bg.jpg" alt="风景10" /> 
+
+</a></li>
+	</ul>
+</body>
+</html>
