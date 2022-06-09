@@ -6,7 +6,7 @@
 
 * 📫[主页](https://yxzzwy.github.io/index/index.html)
 * 📫[2022高考试题（实时更新6.8）](https://yxzzwy.github.io/gk/gk.html)
-* [零长度短网址转换（可用于加密其他文本）](https://yxzzwy.github.io/sx/Zero Width Detection.html)
+* [零长度短网址转换（可用于加密其他文本）](https://yxzzwy.github.io/sx/Zero%20Width%20Detection.html)
 
 ## 联系我：
 
