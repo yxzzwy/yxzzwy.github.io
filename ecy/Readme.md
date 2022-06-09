@@ -6,6 +6,8 @@
 
 本网站呕心沥血，只为了二次元！
 
+点击标题的“二次元世界网站”即可打开！
+
 参考资料以及使用的工具：
 
 https://www.w3school.com.cn/tiy/t.asp?f=css_position_fixed
