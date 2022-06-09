@@ -1,4 +1,4 @@
-# 二次元世界网站的来源
+# [二次元世界网站](https://yxzzwy.github.io/ecy/%E4%BA%8C%E6%AC%A1%E5%85%83.html)的来源
 
 2022/6/9 21:16  记
 
