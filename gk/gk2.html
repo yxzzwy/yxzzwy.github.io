@@ -3,75 +3,45 @@
 <head>
 	<meta charset="UTF-8">
 	<style type="text/css">
-		body{
-			background:#fff;
-		}
-		ul.polaroids li{
-			display: inline;
-		}
-		ul.polaroids a{
-			background: #fff;
-			display: inline;
-			float: left;
-			margin: 0 0 27px 30px;
-			width: auto;
-			padding: 10px 10px 15px;
-			text-align: center;
-			font-family: "Marker Felt", sans-serif;
-			text-decoration: none;
-			color: #333;
-			font-size: 18px;
- 
-			/*设置阴影  参数1 x轴阴影 x>0在右边 <0在左边 =0两边都有
-						参数2 y轴阴影 y>0在下面边 <0在上边 =0两边都有
-						参数3 阴影模糊半径
-						参数4 颜色   */
-			-webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25);
-			-moz-box-shadow: 0 3px 6px rgba(0,0,0,.25); 
-			box-shadow: 0 3px 6px rgba(0,0,0,.25);
-			
- 
-			-webkit-transitioin:-webkit-transform .15s linear;
- 
-			-webkit-transform: rotate(-2deg);
-			-moz-transform: rotate(-2deg);
-		}
- 
-		ul.polaroids img{
-			display: block;<li>
-			-webkit-transform: rotate(-10deg);
-			-moz-transform: rotate(-10deg);
-			transform: rotate(-10deg);
-		}
-		ul.polaroids li:nth-child(8n) a{
-			position: relative;
-			right:5px;
-			top:8px;
-		}
-		ul.polaroids li:nth-child(11n) a{
-			position: relative;
-			right:-5px;
-			top:3px;
-		}
-		ul.polaroids li a:hover{
-			/*放大*/
-			-webkit-transform: scale(1.25);
-			-moz-transform: scale(1.25);
-			transform: scale(1.25);
-			
-			-webkit-box-shadow: 0 3px 6px rgba(0,0,0,.5);
-			-moz-box-shadow: 0 3px 6px rgba(0,0,0,.5);
-			box-shadow: 0 3px 6px rgba(0,0,0,.5);
- 
-			position: relative;
-			z-index: 5;
-		}
+*{
+	margin:0;
+	padding: 0;
+}
+
+body{
+	background-color: #eeeeee;
+}
+
+
+.container{
+	width: 1000px;
+	height: 450px;
+	margin:60px auto;
+	position: relative;
+}
+
+.container img{
+	padding: 10px 10px 15px ;
+	background:white;
+	border: 1px solid #ddd;
+	box-shadow: 2px 2px 3px rgba(50,50,50,0.4);
+}
+
+.pic{
+	width: 200px;
+	margin-right: 1%;
+}
+
+.container>img:hover{
+	  opacity:0.6;
+}
+		
 	</style>
 </head>
 <body>
 	
 
-   
+   <div class="container">
 	<ul class="polaroids">
 		<li><a title="风景1" href="https://s1.328888.xyz/2022/06/08/zbJCt.jpg"> <img src="https://s1.328888.xyz/2022/06/08/zbJCt.jpg" alt="风景1" /> </a></li>                         
                 <li><a title="风景1" href="https://s1.328888.xyz/2022/06/09/CUGQk.jpg"> <img src="https://s1.328888.xyz/2022/06/09/CUGQk.jpg"/></a></li>
@@ -93,6 +63,6 @@
                 <li><a href="https://s1.328888.xyz/2022/06/09/CUz9O.jpg"><img src="https://s1.328888.xyz/2022/06/09/CUz9O.jpg"/></a></li>
                 <li><a href="https://s1.328888.xyz/2022/06/09/CUCWq.jpg"><img src="https://s1.328888.xyz/2022/06/09/CUCWq.jpg"/></a></li>
 	</ul>
-	
+	</div>
 </body>
 </html>
