@@ -20,7 +20,9 @@
 * [gayhub开源地址](https://github.com/yxzzwy/yxzzwy.github.io)
 * [gayhub个人主页](https://github.com/yxzzwy)
 
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a4dcdce87aa14db49b3c7f417f42a02a"}'></script><!-- End Cloudflare Web Analytics -->
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a4dcdce87aa14db49b3c7f417f42a02a"}'></script>
+<!-- End Cloudflare Web Analytics -->
 <!-- 不蒜子计数 -->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_pv" >| 总访问量 <span id="busuanzi_value_site_pv"></span> 次 </span>
