@@ -10,7 +10,7 @@
 * [统计/待更新](./update.html)  
 * [逻辑谬误（专治小鬼诡辩）](https://mrbenwang.github.io/post/2018/20181207-logical-fallacy-list-1/)
 * 为什么不试试，在网站后面加个后缀呢？比如/ecy/readme.html（彩蛋）
-* [新增坤坤专属网站（我爱蔡徐坤！）](s )
+* [新增坤坤专属网站（我爱蔡徐坤！）]((https://yxzzwy.github.io/cxk)
 
 ## 联系我：
 
