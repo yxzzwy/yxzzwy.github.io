@@ -5,11 +5,9 @@
 ## 博客内容（直达）:
 
 * 📫[主页](https://yxzzwy.github.io/index/index.html)
-* 📫[2022高考试题（实时更新6.9）](https://yxzzwy.github.io/gk/gk.html)
 * [零长度短网址转换（可用于加密其他文本）](https://yxzzwy.github.io/sx/Zero%20Width%20Detection.html)
-* [统计/待更新](./update.html)  
+* [待更新&想法](./update.html)  
 * [逻辑谬误（专治小鬼诡辩）](https://mrbenwang.github.io/post/2018/20181207-logical-fallacy-list-1/)
-* 为什么不试试，在网站后面加个后缀呢？比如/ecy/readme.html（彩蛋）
 * [新增坤坤专属网站（我爱蔡徐坤！）](https://yxzzwy.github.io/cxk)
 
 ## 联系我：
