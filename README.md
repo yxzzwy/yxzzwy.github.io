@@ -5,14 +5,9 @@
 ## 博客内容（直达）:
 
 * 📫[主页](https://yxzzwy.github.io/index/index.html)
-* [零长度短网址转换（可用于加密其他文本）](https://yxzzwy.github.io/sx/Zero%20Width%20Detection.html)
 * [待更新&想法](./update.html)  
 * [逻辑谬误（专治小鬼诡辩）](https://mrbenwang.github.io/post/2018/20181207-logical-fallacy-list-1/)
 * [新增坤坤专属网站（我爱蔡徐坤！）](https://yxzzwy.github.io/cxk)
-
-## 联系我：
-
-滚蛋，联系你m
 
 ### 项目开源地址（本博客）
 
